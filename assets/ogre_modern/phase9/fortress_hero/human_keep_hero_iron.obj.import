@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cbyth4jrm6rw"
+path="res://.godot/imported/human_keep_hero_iron.obj-68da5070b9b081fd1b35727e24d5aacf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/human_keep_hero_iron.obj-68da5070b9b081fd1b35727e24d5aacf.mesh"]
+
+source_file="res://assets/ogre_modern/phase9/fortress_hero/human_keep_hero_iron.obj"
+dest_files=["res://.godot/imported/human_keep_hero_iron.obj-68da5070b9b081fd1b35727e24d5aacf.mesh", "res://.godot/imported/human_keep_hero_iron.obj-68da5070b9b081fd1b35727e24d5aacf.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

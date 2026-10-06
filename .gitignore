@@ -1,0 +1,10 @@
+.godot/
+.vscode/
+build/
+*.apk
+*.aab
+*.pck
+Ogre_War_*_Fresh_Install.zip
+*.pyc
+__pycache__/
+.DS_Store

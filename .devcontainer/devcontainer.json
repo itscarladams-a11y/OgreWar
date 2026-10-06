@@ -1,0 +1,12 @@
+{
+  "name": "Ogre War (Godot 4.7.2)",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "postCreateCommand": "bash tools/codespaces_setup.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": ["geequlim.godot-tools"]
+    }
+  }
+}

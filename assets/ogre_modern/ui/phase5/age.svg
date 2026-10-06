@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 96 96">
+<defs><filter id="s"><feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-opacity=".55"/></filter></defs>
+<g fill="none" stroke="#e0b85c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#s)"><path d="M20 70h56M30 70V37h36v33M38 37V24h20v13M48 15v9"/></g>
+</svg>

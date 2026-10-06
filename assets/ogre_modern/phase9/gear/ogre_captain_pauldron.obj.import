@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ksrc3w2o7pw5"
+path="res://.godot/imported/ogre_captain_pauldron.obj-b2370e412ab83fca5aba046ab780b69e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ogre_captain_pauldron.obj-b2370e412ab83fca5aba046ab780b69e.mesh"]
+
+source_file="res://assets/ogre_modern/phase9/gear/ogre_captain_pauldron.obj"
+dest_files=["res://.godot/imported/ogre_captain_pauldron.obj-b2370e412ab83fca5aba046ab780b69e.mesh", "res://.godot/imported/ogre_captain_pauldron.obj-b2370e412ab83fca5aba046ab780b69e.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

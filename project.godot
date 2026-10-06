@@ -1,0 +1,28 @@
+config_version=5
+
+[application]
+config/name="Ogre War"
+run/main_scene="res://scenes/studio_splash.tscn"
+config/description="Lead a human army through three ages and conquer the ogre stronghold."
+config/icon="res://assets/ui/phase10/launcher_crest.png"
+boot_splash/image="res://assets/ui/phase10/boot_splash.png"
+boot_splash/fullsize=true
+boot_splash/bg_color=Color(0.008, 0.01, 0.012, 1)
+config/features=PackedStringArray("4.7", "Mobile")
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="canvas_items"
+window/handheld/orientation=0
+
+[rendering]
+renderer/rendering_method="mobile"
+renderer/rendering_method.mobile="mobile"
+textures/vram_compression/import_etc2_astc=true
+environment/defaults/default_clear_color=Color(0.008, 0.01, 0.012, 1)
+
+[input_devices]
+pointing/emulate_touch_from_mouse=true

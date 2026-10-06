@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ugbxdd2nscqr"
+path="res://.godot/imported/ridge_ruin.obj-f3cd765079b56d9e809c560ee083835d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ridge_ruin.obj-f3cd765079b56d9e809c560ee083835d.mesh"]
+
+source_file="res://assets/ogre_modern/phase9/props/ridge_ruin.obj"
+dest_files=["res://.godot/imported/ridge_ruin.obj-f3cd765079b56d9e809c560ee083835d.mesh", "res://.godot/imported/ridge_ruin.obj-f3cd765079b56d9e809c560ee083835d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

@@ -1,0 +1,259 @@
+{
+  "base_repo_verified_2026_09_23": [
+    {
+      "path": "assets/audio/age_up.wav",
+      "size_bytes": 52964,
+      "git_blob_sha": "99d883491423f075d550bbb7af79250f66a2348c"
+    },
+    {
+      "path": "assets/audio/bone_spear.wav",
+      "size_bytes": 18124,
+      "git_blob_sha": "4eaf717dbd0113df4722c174cc2106faa3000320"
+    },
+    {
+      "path": "assets/audio/bronze_blade.wav",
+      "size_bytes": 29590,
+      "git_blob_sha": "b53371f1c87a5acbaf541f8b990dad0b23f20f12"
+    },
+    {
+      "path": "assets/audio/bronze_shield.wav",
+      "size_bytes": 33118,
+      "git_blob_sha": "12de083d48599ce60327e8d5b7260496fdde2dd1"
+    },
+    {
+      "path": "assets/audio/iron_lance.wav",
+      "size_bytes": 34000,
+      "git_blob_sha": "3162bf1c46c08cfcf59aa391d61f7093d9c1edfd"
+    },
+    {
+      "path": "assets/audio/iron_sword.wav",
+      "size_bytes": 35764,
+      "git_blob_sha": "f64f0fbaa102363b02b35acba726a18fe65dbbb3"
+    },
+    {
+      "path": "assets/audio/music_bronze.wav",
+      "size_bytes": 756044,
+      "git_blob_sha": "c34b9dcc9718287e51228914dcd28580411525b8"
+    },
+    {
+      "path": "assets/audio/music_iron.wav",
+      "size_bytes": 672044,
+      "git_blob_sha": "8262750ecfaa149fc5bd34c09cf3466bc314618f"
+    },
+    {
+      "path": "assets/audio/ogre_club.wav",
+      "size_bytes": 34000,
+      "git_blob_sha": "7c584bfc0f49fdafbd8e9b5a0b988ef44eba41f9"
+    },
+    {
+      "path": "assets/audio/ram.wav",
+      "size_bytes": 34442,
+      "git_blob_sha": "6ab160fac19739d03eff5e779d9e704ac2b0f710"
+    },
+    {
+      "path": "assets/audio/shield_hit.wav",
+      "size_bytes": 20770,
+      "git_blob_sha": "3acc54b50676fa9cfade99e3c241541c934136d8"
+    },
+    {
+      "path": "assets/audio/stone_club.wav",
+      "size_bytes": 25622,
+      "git_blob_sha": "98928e2a3e1293bd1e1421db21817cce92dea940"
+    },
+    {
+      "path": "assets/audio/stone_rock.wav",
+      "size_bytes": 25180,
+      "git_blob_sha": "8960e1e964146df71c034ccc559316115ab781b8"
+    },
+    {
+      "path": "assets/audio/stone_sling.wav",
+      "size_bytes": 17684,
+      "git_blob_sha": "ea6e5210e821230cff7153c6e57072eb0d341eae"
+    },
+    {
+      "path": "assets/audio/torsion.wav",
+      "size_bytes": 34442,
+      "git_blob_sha": "51add0a6a0a219b000371d324fd39de9046dfc0c"
+    },
+    {
+      "path": "assets/audio/warg.wav",
+      "size_bytes": 26062,
+      "git_blob_sha": "e7bf61f5b22fd409ff5df1f6af9b7ba4919b25f7"
+    }
+  ],
+  "bundled_castlehold_audio": [
+    {
+      "path": "assets/castlehold/audio/boss_roar.wav",
+      "size_bytes": 61484,
+      "duration_sec": 1.28,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.1126,
+      "peak": 0.58
+    },
+    {
+      "path": "assets/castlehold/audio/boss_slam.wav",
+      "size_bytes": 45164,
+      "duration_sec": 0.94,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.0843,
+      "peak": 0.533
+    },
+    {
+      "path": "assets/castlehold/audio/bow.wav",
+      "size_bytes": 7982,
+      "duration_sec": 0.18,
+      "sample_rate": 22050,
+      "channels": 1,
+      "rms": 0.1136,
+      "peak": 0.5003
+    },
+    {
+      "path": "assets/castlehold/audio/collapse.wav",
+      "size_bytes": 48554,
+      "duration_sec": 1.1,
+      "sample_rate": 22050,
+      "channels": 1,
+      "rms": 0.1267,
+      "peak": 0.5889
+    },
+    {
+      "path": "assets/castlehold/audio/defeat.wav",
+      "size_bytes": 52964,
+      "duration_sec": 1.2,
+      "sample_rate": 22050,
+      "channels": 1,
+      "rms": 0.0811,
+      "peak": 0.2728
+    },
+    {
+      "path": "assets/castlehold/audio/gate.wav",
+      "size_bytes": 15478,
+      "duration_sec": 0.35,
+      "sample_rate": 22050,
+      "channels": 1,
+      "rms": 0.1208,
+      "peak": 0.5482
+    },
+    {
+      "path": "assets/castlehold/audio/hit.wav",
+      "size_bytes": 5336,
+      "duration_sec": 0.12,
+      "sample_rate": 22050,
+      "channels": 1,
+      "rms": 0.1091,
+      "peak": 0.4687
+    },
+    {
+      "path": "assets/castlehold/audio/horn.wav",
+      "size_bytes": 52964,
+      "duration_sec": 1.2,
+      "sample_rate": 22050,
+      "channels": 1,
+      "rms": 0.0811,
+      "peak": 0.274
+    },
+    {
+      "path": "assets/castlehold/audio/victory.wav",
+      "size_bytes": 66194,
+      "duration_sec": 1.5,
+      "sample_rate": 22050,
+      "channels": 1,
+      "rms": 0.0815,
+      "peak": 0.2755
+    },
+    {
+      "path": "assets/castlehold/audio/voices/human_defeat_1.wav",
+      "size_bytes": 21164,
+      "duration_sec": 0.44,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.3778,
+      "peak": 0.88
+    },
+    {
+      "path": "assets/castlehold/audio/voices/human_defeat_2.wav",
+      "size_bytes": 22364,
+      "duration_sec": 0.465,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.3696,
+      "peak": 0.88
+    },
+    {
+      "path": "assets/castlehold/audio/voices/human_defeat_3.wav",
+      "size_bytes": 23564,
+      "duration_sec": 0.49,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.3577,
+      "peak": 0.88
+    },
+    {
+      "path": "assets/castlehold/audio/voices/ogre_defeat_1.wav",
+      "size_bytes": 27884,
+      "duration_sec": 0.58,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.3343,
+      "peak": 0.88
+    },
+    {
+      "path": "assets/castlehold/audio/voices/ogre_defeat_2.wav",
+      "size_bytes": 29084,
+      "duration_sec": 0.605,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.3311,
+      "peak": 0.88
+    },
+    {
+      "path": "assets/castlehold/audio/voices/ogre_defeat_3.wav",
+      "size_bytes": 30284,
+      "duration_sec": 0.63,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.3459,
+      "peak": 0.88
+    },
+    {
+      "path": "assets/castlehold/audio/voices/orc_defeat_1.wav",
+      "size_bytes": 23084,
+      "duration_sec": 0.48,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.3357,
+      "peak": 0.88
+    },
+    {
+      "path": "assets/castlehold/audio/voices/orc_defeat_2.wav",
+      "size_bytes": 24284,
+      "duration_sec": 0.505,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.3377,
+      "peak": 0.88
+    },
+    {
+      "path": "assets/castlehold/audio/voices/orc_defeat_3.wav",
+      "size_bytes": 25484,
+      "duration_sec": 0.53,
+      "sample_rate": 24000,
+      "channels": 1,
+      "rms": 0.3374,
+      "peak": 0.88
+    },
+    {
+      "path": "assets/castlehold/audio/valley_watch.ogg",
+      "size_bytes": 940099,
+      "duration_sec": 80.0,
+      "container": "ogg"
+    }
+  ],
+  "music_roles": {
+    "stone": "assets/castlehold/audio/valley_watch.ogg",
+    "bronze": "assets/audio/music_bronze.wav",
+    "iron": "assets/audio/music_iron.wav"
+  }
+}
